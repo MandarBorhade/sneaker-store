@@ -64,6 +64,7 @@ nav div {
 
 button {
     display: flex;
+    color: black;
     align-items: center;
     font-family: 'Poppins', sans-serif;
     gap: 0.8rem;
